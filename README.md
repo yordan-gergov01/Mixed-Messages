@@ -1,4 +1,4 @@
-📚 About the Project
+💡 Motivational Quote Generator
 
 
 This is a simple Motivational Quote Generator built with HTML, CSS, and JavaScript.
